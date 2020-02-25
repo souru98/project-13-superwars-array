@@ -72,3 +72,6 @@ const viewPlayers = (players) => {
 window.onload = () => {
     viewPlayers(initPlayers(PLAYERS));
 }
+
+
+// need to complete code
